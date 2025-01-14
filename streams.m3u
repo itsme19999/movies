@@ -1,0 +1,339 @@
+#EXTM3U
+
+# Afghanistan
+#EXTINF:-1, Tolo TV
+https://live.tolotv.af
+#EXTINF:-1, Ariana TV
+https://live.arianatv.com
+
+# Albanien
+#EXTINF:-1, Top Channel
+https://topchannel.al/live.m3u8
+#EXTINF:-1, TV Klan
+https://tvklan.al/live.m3u8
+
+# Algerien
+#EXTINF:-1, ENTV
+https://entv.dz/live.m3u8
+#EXTINF:-1, El Djazair TV
+https://eldjazair.dz/live.m3u8
+#EXTINF:-1, Echourouk TV
+https://echourouk.dz/live.m3u8
+
+# Argentinien
+#EXTINF:-1, Canal 13
+https://canal13.ar/live.m3u8
+#EXTINF:-1, TN Noticias
+https://tn.ar/live.m3u8
+#EXTINF:-1, Canal 9
+https://canal9.ar/live.m3u8
+
+# Australien
+#EXTINF:-1, ABC Australia
+https://abc.au/live.m3u8
+#EXTINF:-1, Channel Nine
+https://channel9.au/live.m3u8
+#EXTINF:-1, SBS Australia
+https://sbs.au/live.m3u8
+
+# Bahrain
+#EXTINF:-1, Bahrain TV
+https://bahrain.bh/live.m3u8
+
+# Belgien
+#EXTINF:-1, RTBF La Une
+https://rtbf.be/live.m3u8
+#EXTINF:-1, VTM
+https://vtm.be/live.m3u8
+#EXTINF:-1, RTL TVI
+https://rtl.be/live.m3u8
+
+# Brasilien
+#EXTINF:-1, Globo
+https://globo.br/live.m3u8
+#EXTINF:-1, Record News
+https://record.br/live.m3u8
+#EXTINF:-1, SBT
+https://sbt.br/live.m3u8
+
+# Bulgarien
+#EXTINF:-1, BNT1
+https://bnt.bg/live.m3u8
+#EXTINF:-1, NOVA TV
+https://nova.bg/live.m3u8
+#EXTINF:-1, bTV
+https://btv.bg/live.m3u8
+
+# Chile
+#EXTINF:-1, TVN Chile
+https://tvn.cl/live.m3u8
+#EXTINF:-1, Canal 13 Chile
+https://canal13.cl/live.m3u8
+#EXTINF:-1, Mega Chile
+https://mega.cl/live.m3u8
+
+# China
+#EXTINF:-1, CCTV News
+https://cctv.cn/live.m3u8
+#EXTINF:-1, China Global TV Network
+https://cgtn.cn/live.m3u8
+#EXTINF:-1, Hunan TV
+https://hunan.cn/live.m3u8
+
+# Dänemark
+#EXTINF:-1, DR1
+https://dr.dk/live.m3u8
+#EXTINF:-1, TV2
+https://tv2.dk/live.m3u8
+#EXTINF:-1, Kanal 5 Denmark
+https://kanal5.dk/live.m3u8
+
+# Deutschland
+#EXTINF:-1, ARD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1, ZDF
+https://zdf-hls-18.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1, WDR
+https://mcdn.wdr.de/wdr/wdrfernsehen247/wdrfernsehen247.m3u8
+#EXTINF:-1, RTL
+https://rtl.de/live.m3u8
+#EXTINF:-1, ProSieben
+https://prosieben.de/live.m3u8
+
+# Frankreich
+#EXTINF:-1, France 2
+https://france2.fr/live.m3u8
+#EXTINF:-1, France 24
+https://france24.fr/live.m3u8
+#EXTINF:-1, TF1
+https://tf1.fr/live.m3u8
+
+# Griechenland
+#EXTINF:-1, ERT1
+https://ert.gr/live.m3u8
+#EXTINF:-1, ANT1 TV
+https://ant1.gr/live.m3u8
+#EXTINF:-1, Skai TV
+https://skaitv.gr/live.m3u8
+
+# Indien
+#EXTINF:-1, NDTV
+https://ndtv.com/live.m3u8
+#EXTINF:-1, Zee News
+https://zeenews.com/live.m3u8
+#EXTINF:-1, Republic TV
+https://republictv.com/live.m3u8
+#EXTINF:-1, Aaj Tak
+https://aajtak.com/live.m3u8
+
+# Irak
+#EXTINF:-1, Iraqia TV
+https://iraqia.com/live.m3u8
+#EXTINF:-1, Kurdistan TV
+https://kurdistantv.net/live.m3u8
+#EXTINF:-1, Al Sharqiya
+https://sharqiya.com/live.m3u8
+#EXTINF:-1, Rudaw
+https://rudaw.net/live.m3u8
+
+# Iran
+#EXTINF:-1, IRIB TV1
+https://irib.ir/tv1/live.m3u8
+#EXTINF:-1, Press TV
+https://presstv.ir/live.m3u8
+#EXTINF:-1, IRIB TV2
+https://irib.ir/tv2/live.m3u8
+#EXTINF:-1, iFilm
+https://ifilm.ir/live.m3u8
+
+# Italien
+#EXTINF:-1, Rai 1
+https://rai.it/live.m3u8
+#EXTINF:-1, Canale 5
+https://canale5.it/live.m3u8
+#EXTINF:-1, Italia 1
+https://italia1.it/live.m3u8
+#EXTINF:-1, Rete 4
+https://rete4.it/live.m3u8
+
+# Japan
+#EXTINF:-1, NHK World
+https://nhk.or/live.m3u8
+#EXTINF:-1, TBS
+https://tbs.co.jp/live.m3u8
+#EXTINF:-1, Fuji TV
+https://fujitv.jp/live.m3u8
+
+# Jordanien
+#EXTINF:-1, Jordan TV
+https://jrtv.jo/live.m3u8
+
+# Kanada
+#EXTINF:-1, CBC News
+https://cbc.ca/live.m3u8
+#EXTINF:-1, Global News
+https://globalnews.ca/live.m3u8
+#EXTINF:-1, CTV
+https://ctv.ca/live.m3u8
+
+# Katar
+#EXTINF:-1, Qatar TV
+https://qatar.qa/live.m3u8
+#EXTINF:-1, Al Jazeera
+https://aljazeera.com/live.m3u8
+
+# Kolumbien
+#EXTINF:-1, Caracol Noticias
+https://caracol.co/live.m3u8
+#EXTINF:-1, RCN Noticias
+https://rcn.co/live.m3u8
+#EXTINF:-1, Canal 1 Colombia
+https://canal1.co/live.m3u8
+
+# Kroatien
+#EXTINF:-1, HRT 1
+https://hrt.hr/live.m3u8
+#EXTINF:-1, Nova TV
+https://nova.hr/live.m3u8
+#EXTINF:-1, RTL Televizija
+https://rtl.hr/live.m3u8
+
+# Kuwait
+#EXTINF:-1, Kuwait TV
+https://kuwaittv.com/live.m3u8
+
+# Kurdistan
+#EXTINF:-1, KurdMax
+https://kurdmax.tv/live.m3u8
+#EXTINF:-1, Zagros TV
+https://zagrostv.net/live.m3u8
+#EXTINF:-1, Kurdistan 24
+https://kurdistan24.net/live.m3u8
+#EXTINF:-1, NRT TV
+https://nrttv.com/live.m3u8
+#EXTINF:-1, Ronahi TV
+https://ronahi.tv/live.m3u8
+
+# Libanon
+#EXTINF:-1, LBCI
+https://lbci.com/live.m3u8
+#EXTINF:-1, MTV Lebanon
+https://mtv.com.lb/live.m3u8
+
+# Libyen
+#EXTINF:-1, Libya TV
+https://libya.tv/live.m3u8
+
+# Marokko
+#EXTINF:-1, Al Aoula
+https://alaoula.ma/live.m3u8
+#EXTINF:-1, 2M TV
+https://2m.ma/live.m3u8
+
+# Mexiko
+#EXTINF:-1, Televisa
+https://televisa.com/live.m3u8
+#EXTINF:-1, TV Azteca
+https://tvazteca.com/live.m3u8
+#EXTINF:-1, Canal 5 Mexico
+https://canal5.mx/live.m3u8
+
+# Niederlande
+#EXTINF:-1, NOS
+https://nos.nl/live.m3u8
+#EXTINF:-1, RTL 4
+https://rtl4.nl/live.m3u8
+#EXTINF:-1, SBS6
+https://sbs6.nl/live.m3u8
+
+# Norwegen
+#EXTINF:-1, NRK 1
+https://nrk.no/live.m3u8
+#EXTINF:-1, TV2 Norway
+https://tv2.no/live.m3u8
+#EXTINF:-1, Kanal 24
+https://kanal24.no/live.m3u8
+
+# Oman
+#EXTINF:-1, Oman TV
+https://oman.om/live.m3u8
+
+# Palästina
+#EXTINF:-1, Palestine TV
+https://palestine.tv/live.m3u8
+
+# Polen
+#EXTINF:-1, TVP1
+https://tvp.pl/live.m3u8
+#EXTINF:-1, Polsat
+https://polsat.pl/live.m3u8
+#EXTINF:-1, TVN
+https://tvn.pl/live.m3u8
+
+# Russland
+#EXTINF:-1, Russia Today
+https://rt.ru/live.m3u8
+#EXTINF:-1, Channel One Russia
+https://channel1.ru/live.m3u8
+#EXTINF:-1, REN TV
+https://ren.tv/live.m3u8
+
+# Saudi-Arabien
+#EXTINF:-1, Saudi TV
+https://sauditv.sa/live.m3u8
+#EXTINF:-1, Al Arabiya
+https://alarabiya.com/live.m3u8
+
+# Spanien
+#EXTINF:-1, RTVE
+https://rtve.es/live.m3u8
+#EXTINF:-1, La Sexta
+https://lasexta.es/live.m3u8
+#EXTINF:-1, Telecinco
+https://telecinco.es/live.m3u8
+#EXTINF:-1, Antena 3
+https://antena3.es/live.m3u8
+
+# Sudan
+#EXTINF:-1, Sudan TV
+https://sudan.tv/live.m3u8
+
+# Südafrika
+#EXTINF:-1, SABC 2
+https://sabc2.co.za/live.m3u8
+
+# Syrien
+#EXTINF:-1, Syria TV
+https://syria.sy/live.m3u8
+#EXTINF:-1, Alikhbaria Syria
+https://alikhbaria.sy/live.m3u8
+#EXTINF:-1, Sama TV
+https://sama.sy/live.m3u8
+
+# Tunesien
+#EXTINF:-1, Wataniya 1
+https://wataniya.tn/live.m3u8
+#EXTINF:-1, Nessma TV
+https://nessma.tn/live.m3u8
+
+# USA
+#EXTINF:-1, ABC
+https://abc.go/live.m3u8
+#EXTINF:-1, CNN
+https://cnn.com/live.m3u8
+#EXTINF:-1, NBC
+https://nbc.com/live.m3u8
+#EXTINF:-1, Fox News
+https://foxnews.com/live.m3u8
+#EXTINF:-1, MSNBC
+https://msnbc.com/live.m3u8
+
+# Vereinigte Arabische Emirate
+#EXTINF:-1, Dubai TV
+https://dubaitv.ae/live.m3u8
+#EXTINF:-1, Abu Dhabi TV
+https://abudhabitv.ae/live.m3u8
+
+# Jemen
+#EXTINF:-1, Yemen TV
+https://yemen.tv/live.m3u8
